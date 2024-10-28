@@ -25,7 +25,7 @@ The Cool! Pizza website is a static website developed using HTML, CSS, JavaScrip
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Rajesh2825/cool-pizza.git
+    git clone https://github.com/radadiya-rajesh/cool-pizza.git
     cd cool-pizza
     ```
 
